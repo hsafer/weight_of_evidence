@@ -6,5 +6,5 @@ A feature like this, with unordered, non-numeric values, cannot be used directly
 
 When WOE of a categorical value is positive, the probability of the loan being paid in full is above average among all applicants, and vice versa when WOE is negative. 
 
-WOE has advantages over the one-hot encoding that is commonly used for categorical features. WOE avoid the proliferation of features that occurs when one-hot encoding is used with categorical features that take many values. WOE also does not lose information the way that one-hot encoding does when tree-based algorithms select a subset of features at each node.
+WOE has advantages over the one-hot encoding that is commonly used for categorical features. WOE avoids the proliferation of features that occurs when one-hot encoding is used with categorical features that take many values. WOE also does not lose information the way that one-hot encoding does when tree-based algorithms select a subset of features at each node.
 
